@@ -1,0 +1,38 @@
+
+Texto para uso no Capstone Project 2 do Bootcamp de Web Development da Angela Yu.
+
+
+Coverletter
+Hello! My name is Eduardo Kokubo. I am a brazilian man living in Japan since 2016. I came here with my wife in order to save money to pay for a college in Canada. I started working as a Machine Operator in Sharp Co., despite my academic background as Bachelor of Music, then a post graduation in Cinema Production. In Brazil, I have worked as Video Editor, Cinematographer, Director, Camera Operator and Script Writer. In Japan, as I have already mentioned, I have worked as Machine Operator, Material Handler, and nowadays Truck Driver. Studying Software Development is an old dream since I was a teenager realizing me as a Game Developer. Well, time passed, and now, with more then 40 years old, I finally started a Web Development Bootcamp, taught by Angela Yu at Udemy. Before this program, I have concluded Programming Logic and Algorithms taught by Dr. Nelio Alves at Udemy as well, and Cibersecurity Fundamentals at SENAI Online. I have some interest for Cybersecurity and Artificial Inteligence, so I can turn this way on the future.
+
+Resume
+Education
+09/2023 ~ Now - Web Development Bootcamp at Udemy - Professor Dr. Angela Yu
+11/2023 - Cybersecurity Fundamentals at SENAI Online
+06/2023 ~ 09/2023 - Programming Logic and Algorithms at Udemy - Professor Dr. Nelio Alves
+2011 ~ 2012 - Graduate in Cinema Production at Faculdade de Artes do Paraná
+2005 ~ 2006 - Bachelor of Music Production at Universidade Federal do Paraná
+2001 ~ 2004 - Bachelor of Music Education at Universidade Federal do Paraná
+
+Work Experience
+2023 ~ Now: Truck Driver at OD Japan
+2017 ~ 2020: Material Handler at Furukawa Denko Japan
+2016 ~ 2017: Machine Operator at Sharp Co. Japan
+2013 ~ 2016: Video Editor at SENAC São Paulo
+2012 ~ 2013: Video Editor and Camera Operator at Panorama Criativo
+2011 ~ 2012: Administrative Assistant at FAE Curitiba
+2010 ~ 2011: Camera Operator at IBPEX Brasil
+2009 ~ 2010: Administrative Assistant at KS Martelinho de Ouro
+2007 ~ 2009: Director Assistant at IESDE Brasil
+2005 ~ 2007: Network Suport Analist at Wiechert Suporte Tecnico de Rede e Hardware
+
+Contact
+E-mail adress
+ed.developer81@gmail.com
+LinkedIn
+www.linkedin.com/in/edukokubo
+GitHub
+https://github.com/edkok81
+
+
+
